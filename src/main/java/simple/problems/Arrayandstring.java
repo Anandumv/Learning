@@ -1,4 +1,6 @@
-            public class Arrayandstring {
+package simple.problems;
+
+public class Arrayandstring {
 
                 public static void main(String[] args) {
                     int[] Array = {1, 2, 3, 4, 5};

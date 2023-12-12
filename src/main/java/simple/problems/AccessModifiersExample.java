@@ -1,3 +1,5 @@
+package simple.problems;
+
 public class AccessModifiersExample {
 
     // Public static method
